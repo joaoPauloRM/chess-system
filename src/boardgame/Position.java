@@ -30,5 +30,7 @@ public class Position {
 		this.column = column;
 		
 	}
+	
+	
 
 }
